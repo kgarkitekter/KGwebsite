@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Residential Villa",
+    "category": "residential",
+    "description": "Contemporary family home with sustainable features",
+    "imageUrl": "/images/projects/modern_architecture_1.jpeg",
+    "year": 2023,
+    "location": "Skövde",
+    "fullDescription": "A modern family villa designed with sustainability in mind. Features include solar panels, geothermal heating, and natural ventilation systems.",
+    "additionalImages": [
+      "/images/projects/interior_kitchen_1.jpeg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Commercial Office Space",
+    "category": "commercial",
+    "description": "Open concept office with flexible workspaces",
+    "imageUrl": "/images/projects/modern_building_1.jpeg",
+    "year": 2022,
+    "location": "Gothenburg",
+    "fullDescription": "A flexible office space designed for the modern workforce. The open concept design promotes collaboration while providing private areas for focused work."
+  },
+  {
+    "id": "3",
+    "title": "Minimalist Apartment Renovation",
+    "category": "residential",
+    "description": "Complete renovation of a 1970s apartment",
+    "imageUrl": "/images/projects/interior_kitchen_1.jpeg",
+    "year": 2024,
+    "location": "Stockholm",
+    "fullDescription": "This renovation project transformed a dated 1970s apartment into a modern, minimalist living space with improved functionality and natural light."
+  },
+  {
+    "id": "4",
+    "title": "Conceptual Urban Housing",
+    "category": "personal",
+    "description": "Theoretical project exploring urban density",
+    "imageUrl": "/images/projects/modern_architecture_1.jpeg",
+    "year": 2021,
+    "fullDescription": "A personal research project exploring solutions for increasing urban density while maintaining quality of life and green spaces."
+  }
+]

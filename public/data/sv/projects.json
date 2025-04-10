@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Bostadsvilla",
+    "category": "residential",
+    "description": "Samtida familjebostad med hållbara funktioner",
+    "imageUrl": "/images/projects/modern_architecture_1.jpeg",
+    "year": 2023,
+    "location": "Skövde",
+    "fullDescription": "En modern familjvilla designad med hållbarhet i åtanke. Funktioner inkluderar solpaneler, geotermisk uppvärmning och naturliga ventilationssystem.",
+    "additionalImages": [
+      "/images/projects/interior_kitchen_1.jpeg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Kommersiell Kontorsyta",
+    "category": "commercial",
+    "description": "Öppet koncept kontor med flexibla arbetsytor",
+    "imageUrl": "/images/projects/modern_building_1.jpeg",
+    "year": 2022,
+    "location": "Göteborg",
+    "fullDescription": "En flexibel kontorsyta designad för den moderna arbetskraften. Den öppna konceptdesignen främjar samarbete samtidigt som den erbjuder privata områden för fokuserat arbete."
+  },
+  {
+    "id": "3",
+    "title": "Minimalistisk Lägenhetsrenovering",
+    "category": "residential",
+    "description": "Komplett renovering av en lägenhet från 1970-talet",
+    "imageUrl": "/images/projects/interior_kitchen_1.jpeg",
+    "year": 2024,
+    "location": "Stockholm",
+    "fullDescription": "Detta renoveringsprojekt förvandlade en daterad lägenhet från 1970-talet till ett modernt, minimalistiskt boende med förbättrad funktionalitet och naturligt ljus."
+  },
+  {
+    "id": "4",
+    "title": "Konceptuellt Stadsboende",
+    "category": "personal",
+    "description": "Teoretiskt projekt som utforskar urban täthet",
+    "imageUrl": "/images/projects/modern_architecture_1.jpeg",
+    "year": 2021,
+    "fullDescription": "Ett personligt forskningsprojekt som utforskar lösningar för att öka urban täthet samtidigt som livskvalitet och gröna ytor bibehålls."
+  }
+]
